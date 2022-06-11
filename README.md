@@ -1,7 +1,8 @@
 # Design a 3 Tier AWS VPC with NAT Gateways using Terraform
 
 Terraform module which creates VPC resources on AWS.
-![Screenshot from 2022-05-20 22-04-10](https://user-images.githubusercontent.com/61878628/169572974-574d0898-057b-47ba-b253-df034b6e8a2b.png)
+file:///home/ritesh/Pictures/Screenshot%20from%202022-06-11%2018-11-20.png![image](https://user-images.githubusercontent.com/61878628/173188408-b6cd95c7-27b5-44e2-97b1-1aebde94c89e.png)
+
 
 ## Usage
 
